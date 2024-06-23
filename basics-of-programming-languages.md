@@ -1,6 +1,6 @@
 # Basics of programming languages
 
-## 변수 (Variable)
+## [변수 (Variable)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/variable.md)
 
 - 프로그램 실행 중 값을 저장하고 참조하기 위한 메모리 공간의 이름
 - 변수를 통해 데이터를 저장, 조작, 관리함
