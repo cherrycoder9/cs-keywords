@@ -40,12 +40,12 @@
 - 같은 자료형의 데이터를 연속된 메모리 공간에 저장하는 자료구조
 - 인덱스를 사용하여 배열 요소에 접근할 수 있으며, 데이터를 효율적으로 관리하고 처리할 때 사용함
 
-## 객체 (Object)
+## [객체 (Object)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/object.md)
 
 - 데이터(속성)와 그 데이터에 관련된 동작(메서드)을 모아 둔 것
 - 객체 지향 프로그래밍의 기본 단위로, 현실 세계의 개체를 모델링하는 데 사용됨
 
-## 클래스 (Class)
+## [클래스 (Class)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/class.md)
 
 - 객체를 생성하기 위한 템플릿이나 청사진
 - 객체가 가져야 할 속성과 메서드를 정의하며, 클래스를 바탕으로 다양한 객체를 생성할 수 있음
@@ -65,17 +65,17 @@
 - 객체 내부의 구현 세부 사항을 외부에서 직접 접근할 수 없도록 제한하고, 정의된 인터페이스를 통해서만 상호작용하도록 하는 원칙
 - 코드의 복잡성을 줄이고, 유지보수성을 높이며, 모듈 간의 결합도를 낮출 수 있음
 
-## 상속 (Inheritance)
+## [상속 (Inheritance)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/inheritance.md)
 
 - 기존 클래스의 속성과 메서드를 새로운 클래스에게 물려주는 객체 지향 프로그래밍의 개념
 - 코드의 재사용성을 높이고, 클래스 간의 계층적 관계를 형성하는 데 유용함
 
-## 오버라이딩 (Overriding)
+## [오버라이딩 (Overriding)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/overriding.md)
 
 - 상속받은 하위 클래스에서 상위 클래스의 메서드를 재정의하는 기법
 - 하위 클래스에서 상위 클래스의 동작을 변경하거나 확장할 때 사용함
 
-## 다형성 (Polymorphism)
+## [다형성 (Polymorphism)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/polymorphism.md)
 
 - 동일한 메시지에 대해 객체의 타입에 따라 다르게 반응할 수 있는 능력
 - 코드의 유연성을 높이고, 객체 지향 프로그래밍의 핵심 개념 중 하나임
