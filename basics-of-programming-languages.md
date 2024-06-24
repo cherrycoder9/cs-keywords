@@ -1,11 +1,11 @@
 # Basics of programming languages
 
-## [변수 (Variable)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/variable.md)
+## 변수 (Variable)
 
 - 프로그램 실행 중 값을 저장하고 참조하기 위한 메모리 공간의 이름
 - 변수를 통해 데이터를 저장, 조작, 관리함
 
-## [자료형 (Data Type)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/data-type.md)
+## 자료형 (Data Type)
 
 - 변수에 저장할 수 있는 데이터의 유형을 정의함
 - 정수형, 실수형, 문자열 등 다양한 자료형이 존재하며, 자료형에 따라 메모리 할당 방식과 가능한 연산이 달라짐
