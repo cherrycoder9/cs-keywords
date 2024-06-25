@@ -50,17 +50,17 @@
 - 객체를 생성하기 위한 템플릿이나 청사진
 - 객체가 가져야 할 속성과 메서드를 정의하며, 클래스를 바탕으로 다양한 객체를 생성할 수 있음
 
-## 접근 제어자 (Access Modifier)
+## [접근 제어자 (Access Modifier)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/access-modifier.md)
 
 - 클래스 내부의 멤버(속성과 메서드)에 대한 접근 권한을 제어하는 키워드
 - public, private, protected 등을 통해 정보 은닉과 캡슐화를 구현하여 코드의 안전성을 높임
 
-## 캡슐화 (Encapsulation)
+## [캡슐화 (Encapsulation)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/encapsulation.md)
 
 - 객체의 내부 구현 세부 사항을 외부로부터 감추고, 정의된 인터페이스를 통해서만 접근을 허용하는 개념  
 - 코드의 복잡성을 줄이고 유지보수성을 높이며, 시스템의 안정성을 향상시키는 객체 지향 프로그래밍의 중요한 원칙 중 하나
 
-## 정보 은닉 (Information Hiding)
+## [정보 은닉 (Information Hiding)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/information-hiding.md)
 
 - 객체 내부의 구현 세부 사항을 외부에서 직접 접근할 수 없도록 제한하고, 정의된 인터페이스를 통해서만 상호작용하도록 하는 원칙
 - 코드의 복잡성을 줄이고, 유지보수성을 높이며, 모듈 간의 결합도를 낮출 수 있음
@@ -80,32 +80,32 @@
 - 동일한 메시지에 대해 객체의 타입에 따라 다르게 반응할 수 있는 능력
 - 코드의 유연성을 높이고, 객체 지향 프로그래밍의 핵심 개념 중 하나임
 
-## 오버로딩 (Overloading)
+## [오버로딩 (Overloading)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/overloading.md)
 
 - 같은 이름의 메서드를 여러 개 정의하되, 매개변수의 타입이나 개수를 다르게 하여 다양한 동작을 수행하도록 하는 기법
 - 동일한 메서드 이름으로 다양한 형태의 입력을 처리할 수 있음
 
-## 추상화 (Abstraction)
+## [추상화 (Abstraction)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/abstraction.md)
 
 - 복잡한 시스템에서 핵심적인 개념이나 기능을 추출하여 간단한 인터페이스로 표현하는 기법
 - 시스템의 복잡도를 관리하고 코드의 이해도를 높이는 데 도움이 됨
 
-## 인터페이스 (Interface)
+## [인터페이스 (Interface)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/interface.md)
 
 - 클래스가 구현해야 할 메서드의 시그니처를 정의한 추상 타입
 - 클래스 간의 상호작용 방식을 규정하고, 구현의 세부 사항을 숨김으로써 다형성을 실현하는 데 사용됨
 
-## 추상 클래스 (Abstract Class)
+## [추상 클래스 (Abstract Class)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/abstract-class.md)
 
 - 추상 메서드를 포함하며, 직접 인스턴스를 생성할 수 없는 클래스
 - 공통적인 기능을 하위 클래스에게 상속하고, 특정 메서드의 구현은 하위 클래스에 맡김
 
-## 예외 처리 (Exception Handling)
+## [예외 처리 (Exception Handling)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/exception-handling.md)
 
 - 프로그램 실행 도중 발생할 수 있는 예외 상황을 처리하는 기법
 - 예외 발생 시 프로그램의 비정상 종료를 막고, 안정적인 동작을 보장할 수 있음
 
-## 제네릭 (Generics)
+## [제네릭 (Generics)](https://github.com/cherrycoder9/cs-keywords/blob/main/basics-of-programming-languages/generics.md)
 
 - 클래스나 메서드에서 사용할 데이터 타입을 나중에 지정할 수 있도록 매개변수화하는 기법
 - 코드의 재사용성과 타입 안정성을 동시에 높일 수 있음

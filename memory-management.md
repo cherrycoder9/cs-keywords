@@ -1,12 +1,12 @@
 # Memory management
 
-## 스택 (Stack)
+## [스택 (Stack)](https://github.com/cherrycoder9/cs-keywords/blob/main/memory-management/stack.md)
 
 - 후입선출(LIFO) 원칙을 따르는 선형 자료구조.
 - 함수 호출 및 지역 변수 관리에 활용.
 - 메모리 접근 속도가 빠름.
 
-## 힙 (Heap)
+## [힙 (Heap)](https://github.com/cherrycoder9/cs-keywords/blob/main/memory-management/heap.md)
 
 - 런타임에 동적으로 할당되는 메모리 영역.
 - 다양한 크기의 데이터 저장에 적합.
