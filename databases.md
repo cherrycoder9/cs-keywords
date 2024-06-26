@@ -1,23 +1,23 @@
 # Databases
 
-## 데이터베이스 (Database)
+## [데이터베이스 (Database)](https://github.com/cherrycoder9/cs-keywords/blob/main/databases/database.md)
 
 - 구조화되고 조직화된 데이터의 집합.
 - 효율적인 저장, 검색, 관리를 위해 설계됨.
 - 응용 프로그램의 기반이 되는 정보 저장소.
 
-## 관계형 데이터베이스 (RDBMS: Relational Database Management System)
+## [관계형 데이터베이스 (RDBMS: Relational Database Management System)](https://github.com/cherrycoder9/cs-keywords/blob/main/databases/RDBMS.md)
 
 - 데이터를 2차원 테이블로 표현하고 관리하는 데이터베이스.
 - 테이블 간 관계 설정으로 데이터 일관성과 무결성 유지.
 - 대표적으로 MySQL, Oracle 등.
 
-## SQL (Structured Query Language)
+## [SQL (Structured Query Language)](https://github.com/cherrycoder9/cs-keywords/blob/main/databases/SQL.md)
 
 - 관계형 데이터베이스에서 데이터 정의, 조작, 제어를 위한 표준 질의어.
 - 선언적 언어로서 데이터베이스 객체 생성, 수정, 삭제, 검색 등 수행.
 
-## NoSQL (Not Only SQL)
+## [NoSQL (Not Only SQL)](https://github.com/cherrycoder9/cs-keywords/blob/main/databases/NoSQL.md)
 
 - 비정형, 반정형 데이터를 다루기 위한 유연한 데이터 모델 기반 데이터베이스.
 - 수평적 확장성과 고성능 특징.
