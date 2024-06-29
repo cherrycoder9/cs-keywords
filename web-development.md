@@ -1,37 +1,37 @@
 # Web development
 
-## [HTTP (Hypertext Transfer Protocol)]()
+## [HTTP (Hypertext Transfer Protocol)](https://github.com/cherrycoder9/cs-keywords/blob/main/web-development/http.md)
 
 - 웹 브라우저와 웹 서버 간 통신을 위한 프로토콜.
 - 클라이언트의 요청(Request)과 서버의 응답(Response)으로 이루어짐.
 - 상태 정보 유지 않는 Stateless 프로토콜임.
 
-## [HTTPS (HTTP Secure)]()
+## [HTTPS (HTTP Secure)](https://github.com/cherrycoder9/cs-keywords/blob/main/web-development/https.md)
 
 - HTTP에 SSL/TLS 암호화를 적용한 보안 프로토콜.
 - 전송 데이터를 암호화하여 기밀성 보장함.
 - 서버 인증서로 통신 상대방 신원 확인함.
 
-## [REST API (Representational State Transfer API)]()
+## [REST API (Representational State Transfer API)](https://github.com/cherrycoder9/cs-keywords/blob/main/web-development/rest-api.md)
 
 - 분산 시스템을 위한 아키텍처 스타일.
 - 자원을 고유한 URI로 식별하고 HTTP 메서드로 자원에 대한 행위 정의함.
 - 상태 정보 없이 요청 단위로 통신함.
 
-## [웹소켓 (WebSocket)]()
+## [웹소켓 (WebSocket)](https://github.com/cherrycoder9/cs-keywords/blob/main/web-development/websocket.md)
 
 - 양방향 통신을 위한 프로토콜.
 - HTTP 핸드셰이크 후 TCP 연결로 전환함.
 - 실시간성이 중요한 애플리케이션에 사용됨.
 - 서버 푸시 기능 제공.
 
-## [인증 (Authentication)]()
+## [인증 (Authentication)](https://github.com/cherrycoder9/cs-keywords/blob/main/web-development/authentication.md)
 
 - 사용자 신원을 확인하는 과정.
 - 아이디/비밀번호, 공개키 인증서 등 사용자 고유 정보 검증함.
 - 보안 시스템의 기본 요소임.
 
-## [인가 (Authorization)]()
+## [인가 (Authorization)](https://github.com/cherrycoder9/cs-keywords/blob/main/web-development/authorization.md)
 
 - 인증된 사용자의 권한을 확인하고 허용하는 과정.
 - 접근 제어 목록, 역할 기반 접근 제어 등 방식 사용함.
