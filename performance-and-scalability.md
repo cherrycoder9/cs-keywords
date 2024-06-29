@@ -1,26 +1,26 @@
 # Performance and scalability
 
-## [성능 측정 (Performance Measurement)]
+## [성능 측정 (Performance Measurement)](https://github.com/cherrycoder9/cs-keywords/blob/main/performance-and-scalability/performance-measurement.md)
 
 - 응답 시간, 처리량 등 시스템이나 애플리케이션의 성능 지표를 측정하는 활동
 - 성능 현황 파악 및 개선 목표 설정에 필요한 객관적 데이터를 수집함
 
-## [성능 분석 (Performance Analysis, 프로파일링)]
+## [성능 분석 (Performance Analysis, 프로파일링)](https://github.com/cherrycoder9/cs-keywords/blob/main/performance-and-scalability/performance-analysis.md)
 
 - 성능 측정 데이터를 분석하여 병목 지점과 성능 저하 요인을 식별하는 프로세스
 - 정확한 문제 진단과 효과적인 최적화 전략 수립에 활용됨
 
-## [성능 최적화 (Performance Optimization)]
+## [성능 최적화 (Performance Optimization)](https://github.com/cherrycoder9/cs-keywords/blob/main/performance-and-scalability/performance-optimization.md)
 
 - 코드, 아키텍처, 설정 등을 조정하여 시스템 성능을 개선하는 작업
 - 자원 사용량을 최소화하면서 처리 속도를 높이는 것이 주요 목표임
 
-## [로드 밸런싱 (Load Balancing)]
+## [로드 밸런싱 (Load Balancing)](https://github.com/cherrycoder9/cs-keywords/blob/main/performance-and-scalability/load-balancing.md)
 
 - 여러 서버로 트래픽을 분산시켜 시스템의 가용성과 확장성을 높이는 기술
 - 단일 실패점 제거, 부하 분산, 응답 시간 단축 등의 효과를 얻을 수 있음
 
-## [캐싱 (Caching)]
+## [캐싱 (Caching)](https://github.com/cherrycoder9/cs-keywords/blob/main/performance-and-scalability/caching.md)
 
 - 빈번히 액세스되는 데이터를 고속 저장소에 보관하여 성능을 향상시키는 기법
 - DB 쿼리나 API 호출 횟수를 줄여 응답 시간을 단축하고 백엔드 부하를 완화함
