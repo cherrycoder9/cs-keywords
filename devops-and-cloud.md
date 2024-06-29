@@ -1,36 +1,36 @@
 # Devops and cloud
 
-## [가상화 (Virtualization)]
+## [가상화 (Virtualization)](https://github.com/cherrycoder9/cs-keywords/blob/main/devops-and-cloud/virtualization.md)
 
 - 물리적 하드웨어를 다수의 논리적 자원으로 분할하여 공유하는 기술
 - 자원 활용율 제고, 비용 절감, 유연한 인프라 운영 등의 이점 제공
 
-## [컨테이너 (Container)]
+## [컨테이너 (Container)](https://github.com/cherrycoder9/cs-keywords/blob/main/devops-and-cloud/container.md)
 
 - 애플리케이션과 종속성을 패키지화하여 격리된 환경에서 실행하는 기술
 - 이식성과 확장성이 뛰어나며, 간편한 배포와 관리가 가능함
 
-## [도커 (Docker)]
+## [도커 (Docker)](https://github.com/cherrycoder9/cs-keywords/blob/main/devops-and-cloud/docker.md)
 
 - 컨테이너 생성, 실행, 배포를 위한 오픈소스 플랫폼
 - 컨테이너 이미지 관리 도구와 레지스트리를 통한 이미지 공유 기능 제공
 
-## [쿠버네티스 (Kubernetes)]
+## [쿠버네티스 (Kubernetes)](https://github.com/cherrycoder9/cs-keywords/blob/main/devops-and-cloud/kubernetes.md)
 
 - 컨테이너 오케스트레이션을 위한 오픈소스 플랫폼
 - 컨테이너 배포, 확장, 관리 자동화와 함께 복구, 로드 밸런싱 등의 기능 지원
 
-## [마이크로서비스 (Microservices)]
+## [마이크로서비스 (Microservices)](https://github.com/cherrycoder9/cs-keywords/blob/main/devops-and-cloud/microservices.md)
 
 - 애플리케이션을 작고 독립적인 서비스 단위로 분해하는 아키텍처 패턴
 - 각 서비스는 단일 책임을 가지며, 느슨한 결합을 통해 유연성과 확장성 확보
 
-## [서버리스 (Serverless)]
+## [서버리스 (Serverless)](https://github.com/cherrycoder9/cs-keywords/blob/main/devops-and-cloud/serverless.md)
 
 - 서버 관리 없이 코드 실행에 집중할 수 있는 클라우드 컴퓨팅 모델
 - 사용량에 따른 과금, 자동 확장, 높은 가용성 등의 특징을 가짐
 
-## [CI/CD (Continuous Integration/Continuous Delivery)]
+## [CI/CD (Continuous Integration/Continuous Delivery)](https://github.com/cherrycoder9/cs-keywords/blob/main/devops-and-cloud/cicd.md)
 
 - 코드 변경사항의 지속적 통합, 테스트, 배포를 자동화하는 개발 및 운영 방식
 - 개발 주기 단축, 품질 개선, 신속한 피드백 반영 등의 효과를 얻을 수 있음
